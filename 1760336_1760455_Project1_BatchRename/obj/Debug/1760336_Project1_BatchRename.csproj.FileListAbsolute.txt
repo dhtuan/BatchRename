@@ -1,0 +1,29 @@
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\bin\Debug\Batch Rename v1.0.exe.config
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\bin\Debug\Batch Rename v1.0.exe
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\bin\Debug\Batch Rename v1.0.pdb
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\bin\Debug\Newtonsoft.Json.pdb
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\1760336_Project1_BatchRename.csprojAssemblyReference.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\FullNameNormalize\FullNameNormalizeArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\MainWindow.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Move\MoveArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\NewCase\NewCaseArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Replace\ReplaceArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\UniqueName\UniqueNameArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\App.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Batch Rename v1.0_MarkupCompile.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Batch Rename v1.0_MarkupCompile.lref
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\FullNameNormalize\FullNameNormalizeArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\MainWindow.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Move\MoveArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\NewCase\NewCaseArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Replace\ReplaceArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\UniqueName\UniqueNameArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Batch Rename v1.0.g.resources
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\_1760336_Project1_BatchRename.Properties.Resources.resources
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\1760336_Project1_BatchRename.csproj.GenerateResource.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\1760336_Project1_BatchRename.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\1760336_Project1_BatchRename.csproj.CopyComplete
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Batch Rename v1.0.exe
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_Project1_BatchRename\1760336_Project1_BatchRename\obj\Debug\Batch Rename v1.0.pdb

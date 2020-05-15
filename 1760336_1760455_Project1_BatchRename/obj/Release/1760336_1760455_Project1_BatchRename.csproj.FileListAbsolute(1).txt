@@ -1,0 +1,28 @@
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.exe.config
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.exe
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.pdb
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.dll
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.xml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\FullNameNormalize\FullNameNormalizeArgsDialog.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\MainWindow.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Move\MoveArgsDialog.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\NewCase\NewCaseArgsDialog.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Replace\ReplaceArgsDialog.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\UniqueName\UniqueNameArgsDialog.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\App.g.cs
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0_MarkupCompile.cache
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0_MarkupCompile.lref
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\FullNameNormalize\FullNameNormalizeArgsDialog.baml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\MainWindow.baml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Move\MoveArgsDialog.baml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\NewCase\NewCaseArgsDialog.baml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Replace\ReplaceArgsDialog.baml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\UniqueName\UniqueNameArgsDialog.baml
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.g.resources
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\_1760336_1760455_Project1_BatchRename.Properties.Resources.resources
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.GenerateResource.cache
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.CopyComplete
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.exe
+C:\Users\Khoa\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.pdb

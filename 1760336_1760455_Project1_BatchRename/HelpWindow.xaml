@@ -1,0 +1,22 @@
+﻿<Window x:Class="_1760336_1760455_Project1_BatchRename.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1760336_1760455_Project1_BatchRename"
+        mc:Ignorable="d"
+         Title="Batch Rename v1.0" Height="556" Width="803" ResizeMode="NoResize" Icon="Image/appicon.png" WindowStartupLocation="CenterScreen">
+    <Canvas Margin="0,0,4,5">
+        <GroupBox Header="Help" Height="500" Width="773" Canvas.Left="10"/>
+        <TextBlock Text="Adding files or folders" Canvas.Left="55" Canvas.Top="62" Height="24" Width="182" FontSize="18" MouseLeftButtonDown="Help1_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Changing files or folders viewing position" Canvas.Left="55" Canvas.Top="112" Height="24" Width="335" FontSize="18" MouseLeftButtonDown="Help2_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Removing a file or folder from renaming" Canvas.Left="55" Canvas.Top="162" Height="26" Width="335" FontSize="18" MouseLeftButtonDown="Help3_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Inserting actions" Canvas.Left="55" Canvas.Top="212" Height="24" Width="134" FontSize="18" MouseLeftButtonDown="Help4_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Editing actions" Canvas.Left="55" Canvas.Top="262" Height="24" Width="120" FontSize="18" MouseLeftButtonDown="Help5_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Deleting actions" Canvas.Left="420" Canvas.Top="62" Height="24" Width="134" FontSize="18" MouseLeftButtonDown="Help6_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Batching file names" Canvas.Left="420" Canvas.Top="112" Height="24" Width="161" FontSize="18" MouseLeftButtonDown="Help7_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Handling duplicate instance names" Canvas.Left="420" Canvas.Top="162" Height="24" Width="283" FontSize="18" MouseLeftButtonDown="Help8_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+        <TextBlock Text="Presets" Canvas.Left="420" Canvas.Top="212" Height="24" Width="64" FontSize="18" MouseLeftButtonDown="Help9_Click" Foreground="Blue" TextDecorations="Underline" Cursor="Hand"/>
+
+    </Canvas>
+</Window>

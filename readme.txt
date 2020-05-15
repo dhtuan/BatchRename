@@ -1,0 +1,1 @@
+The HelpPages folder must be placed in Debug folder of the project in order to run the helping pages

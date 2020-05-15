@@ -1,0 +1,60 @@
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.exe.config
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.exe
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.pdb
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.dll
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.pdb
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.xml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csprojAssemblyReference.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\FullNameNormalize\FullNameNormalizeArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\MainWindow.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Move\MoveArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\NewCase\NewCaseArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Replace\ReplaceArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\UniqueName\UniqueNameArgsDialog.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\App.g.cs
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0_MarkupCompile.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0_MarkupCompile.lref
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\FullNameNormalize\FullNameNormalizeArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\MainWindow.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Move\MoveArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\NewCase\NewCaseArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Replace\ReplaceArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\UniqueName\UniqueNameArgsDialog.baml
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.g.resources
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\_1760336_1760455_Project1_BatchRename.Properties.Resources.resources
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.GenerateResource.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.CopyComplete
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.exe
+\\Mac\Google Drive\Studying\Windows Programming\Assignments\project1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.pdb
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.exe.config
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.exe
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Batch Rename v1.0.pdb
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.dll
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.pdb
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\bin\Release\Newtonsoft.Json.xml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csprojAssemblyReference.cache
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\FullNameNormalize\FullNameNormalizeArgsDialog.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\HelpWindow.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\MainWindow.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Move\MoveArgsDialog.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\NewCase\NewCaseArgsDialog.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Replace\ReplaceArgsDialog.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\UniqueName\UniqueNameArgsDialog.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\App.g.cs
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0_MarkupCompile.cache
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0_MarkupCompile.lref
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\FullNameNormalize\FullNameNormalizeArgsDialog.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\HelpWindow.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\MainWindow.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Move\MoveArgsDialog.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\NewCase\NewCaseArgsDialog.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Replace\ReplaceArgsDialog.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\UniqueName\UniqueNameArgsDialog.baml
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.g.resources
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\_1760336_1760455_Project1_BatchRename.Properties.Resources.resources
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.GenerateResource.cache
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.CoreCompileInputs.cache
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\1760336_1760455_Project1_BatchRename.csproj.CopyComplete
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.exe
+D:\LTWindows\Do an 1\1760336_1760455_Project1_BatchRename\1760336_1760455_Project1_BatchRename\obj\Release\Batch Rename v1.0.pdb
